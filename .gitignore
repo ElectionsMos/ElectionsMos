@@ -1,0 +1,6 @@
+##################
+#Ignore API token#
+##################
+BOT_TOKEN.txt
+MOS_KEY.txt
+PLOTLY_KEY.txt
